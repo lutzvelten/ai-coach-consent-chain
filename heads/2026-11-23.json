@@ -1,0 +1,8 @@
+{
+ "as_of": "2026-11-23T15:57:28.556084+00:00",
+ "users": 2,
+ "digest": "83e5dc63ccdb2b7cf63982f5897fbe31b40fd434d87e77c660cd122daf09b27e",
+ "events": 5,
+ "algorithm": "sha256 over user_id:seq:entry_hash of each user's chain head, ordered by user_id, joined with |",
+ "latest_event_at": "2026-11-18T16:01:25.88+00:00"
+}

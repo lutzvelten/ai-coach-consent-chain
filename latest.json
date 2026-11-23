@@ -1,8 +1,8 @@
 {
- "as_of": "2026-11-16T13:38:11.842966+00:00",
+ "as_of": "2026-11-23T15:57:28.556084+00:00",
  "users": 2,
- "digest": "147b8512f924a81dbfe72849298b4c2d2e6f3e2b76f6b618c8ce82161cc3a12b",
- "events": 4,
+ "digest": "83e5dc63ccdb2b7cf63982f5897fbe31b40fd434d87e77c660cd122daf09b27e",
+ "events": 5,
  "algorithm": "sha256 over user_id:seq:entry_hash of each user's chain head, ordered by user_id, joined with |",
- "latest_event_at": "2026-08-17T07:47:57.008+00:00"
+ "latest_event_at": "2026-11-18T16:01:25.88+00:00"
 }
